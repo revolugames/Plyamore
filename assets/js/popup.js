@@ -145,8 +145,8 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
-      }, 5000);
+        setTimeout(() => { window.location.href = 'http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; }, 300);
+      }, 1000);
     }, 300); // "few milliseconds" before starting the spinner
   }
 
@@ -299,8 +299,8 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
-      }, 5000);
+        setTimeout(() => { window.location.href = 'http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; }, 300);
+      }, 1000);
     }, 300); // "few milliseconds" before starting the spinner
   }
 
